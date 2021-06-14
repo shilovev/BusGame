@@ -1547,8 +1547,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d9ad59711665de42b4af49b46b993f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moneyText: {fileID: 0}
   driverName: 
+  isVolbaNear: 0
+  badManPower: 0
   busCapacity: 0
+  driverMoney: 0
 --- !u!1 &1975437500
 GameObject:
   m_ObjectHideFlags: 0
